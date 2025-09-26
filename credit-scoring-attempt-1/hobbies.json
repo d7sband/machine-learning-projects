@@ -1,0 +1,7 @@
+{
+    "sport": null,
+    "name": "Pavel",
+    "age": 20,
+    "skills": ["python", "ML", "PosgreSQL"],
+    "//comment": "мои комментарии"
+}
